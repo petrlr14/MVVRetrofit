@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM</string>
+    <string name="repo_name_hint">Repo name</string>
+    <string name="add_repo">Add</string>
+</resources>
